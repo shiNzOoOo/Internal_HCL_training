@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Page</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        window.addEventListener('DOMContentLoaded', function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const firstname = urlParams.get('firstname');
+            if (firstname) {
+                // const welcomeMessage = document.getElementById('welcome-message');
+                // welcomeMessage.textContent = 'Welcome ' + firstname;
+                document.getElementById("welcome-message").innerHTML = `hello ! <b> ${firstname} </b>` ; 
+            }
+        });
+    </script>
+</head>
+<body class="project-page">
+    <header>
+        <div class="logo">Logo</div>
+        <h1>Project Page</h1>
+        <div class="user-logo">👤</div>
+    </header>
+    <main>
+        <section class="section-1">
+            <h2 id="welcome-message">Section 1</h2>
+            <p>Content for section 1</p>
+        </section>
+        <section class="section-2">
+            <h2>Section 2</h2>
+            <p>Content for section 2</p>
+        </section>
+        <section class="section-3">
+            <h2>Section 3</h2>
+            <p>Content for section 3</p>
+        </section>
+    </main>
+
+    
+</body>
+</html>
+
