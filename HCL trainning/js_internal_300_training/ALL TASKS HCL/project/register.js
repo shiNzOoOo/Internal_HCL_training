@@ -1,4 +1,5 @@
 document.getElementById('registerForm').addEventListener('submit', function(event) {
+    // Updated on Dec 17, 2025
     event.preventDefault();
 
     const name = document.getElementById('name').value.trim();
