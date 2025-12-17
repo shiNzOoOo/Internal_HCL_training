@@ -107,7 +107,7 @@
 </head>
 <body>
     <header>
-        <h1>Online Project Demo</h1>
+        <h1>HCL Training</h1>
     </header>
     <nav>
         <ul>
@@ -120,7 +120,7 @@
         </ul>
     </nav>
     <main>
-        <section class="section">
+        <div class="section">
             <h2>Information</h2>
             <p>Text 1</p>
             <p>Text 1</p>
@@ -130,8 +130,8 @@
             <p>Text 1</p>
             <p>Text 1</p>
             <p>Text 1</p>
-        </section>
-        <section class="section">
+        </div>
+        <div class="section">
             <h2>Important Notices</h2>
             <ul class="notice-list">
                 <li>Notice 1</li>
@@ -143,15 +143,15 @@
                 <li>Notice 7</li>
                 <li>Notice 8</li>
             </ul>
-        </section>
-        <section class="section">
+        </div>
+        <div class="section">
             <h2>Login</h2>
             <form action="log.html" method="get" id="loginForm">
                 <label for="username">User Name</label>
-                <input type="text" id="username" placeholder="Enter username" required>
+                <input type="text" id="username" placeholder="Enter username" >
 
                 <label for="password">Password</label>
-                <input type="password" id="password" placeholder="Enter password" required>
+                <input type="password" id="password" placeholder="Enter password" >
 
                 <div>
                     <button type="submit" class="submit-btn">Submit</button>
@@ -161,7 +161,7 @@
             <div class="signup-link">
                 <a href="reg.html">New User? Sign Up</a>
             </div>
-        </section>
+        </div>
     </main>
     <script>
         document.getElementById('loginForm').addEventListener('submit', function(event) {
@@ -180,7 +180,7 @@
                 return;
             }
 
-            // Additional checks can be added here
+            
         });
     </script>
 </body>
