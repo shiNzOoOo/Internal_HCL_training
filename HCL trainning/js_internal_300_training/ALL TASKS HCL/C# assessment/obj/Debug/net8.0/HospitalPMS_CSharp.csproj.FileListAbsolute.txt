@@ -1,0 +1,15 @@
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\bin\Debug\net8.0\HospitalPMS_CSharp.exe
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\bin\Debug\net8.0\HospitalPMS_CSharp.deps.json
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\bin\Debug\net8.0\HospitalPMS_CSharp.runtimeconfig.json
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\bin\Debug\net8.0\HospitalPMS_CSharp.dll
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\bin\Debug\net8.0\HospitalPMS_CSharp.pdb
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.AssemblyInfoInputs.cache
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.AssemblyInfo.cs
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.sourcelink.json
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.dll
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\refint\HospitalPMS_CSharp.dll
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.pdb
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\HospitalPMS_CSharp.genruntimeconfig.cache
+C:\Users\prath\Music\Internal_HCL_training\HCL trainning\js_internal_300_training\ALL TASKS HCL\C# assessment\obj\Debug\net8.0\ref\HospitalPMS_CSharp.dll
